@@ -1,6 +1,6 @@
-<p align="center">
+<h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00F72F&center=true&vCenter=true&width=900&lines=Hello+World%2C+I+am+Raiyan;Professional+Full+Stack+Web+Application+Developer;Turning+Ideas+Into+Digital+Reality" alt="Typing SVG" />
-</p>
+</h1>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
