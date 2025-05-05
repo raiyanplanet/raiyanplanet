@@ -29,7 +29,7 @@ I’m equipped with a versatile toolbox of modern web development technologies t
 
 ---
 
-## 🌈 What I Do
+##  What I Do
 
 - 🖥️ **Frontend Magic**: Building responsive, interactive, and visually stunning user interfaces with React.js, Next.js, and Tailwind CSS.
 - ⚡ **Backend Wizardry**: Creating robust APIs and server-side logic with Node.js, Express, Bun, and Deno.
