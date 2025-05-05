@@ -4,22 +4,19 @@
 
 # 🌌 Hello World, I’m Raiyan! 🌟
 
-### 🚀 **Professional Full-Stack Web Application Developer**
+### 🚀 **Professional Full-Stack Web & Mobile Application Developer**
 
-Welcome to my coding galaxy! I’m **Raiyan**, a passionate full-stack developer who crafts innovative, scalable, and visually stunning web applications. With a fusion of creativity and technical expertise, I bring ideas to life with pixel-perfect designs and robust backends. Let’s build the future of the web together! ✨
+Welcome to my coding universe! I’m **Raiyan**, a passionate developer who crafts innovative, scalable, and visually stunning web and mobile applications. With a blend of creativity and technical mastery, I transform ideas into seamless user experiences across platforms. Let’s build the future together! ✨
 
 <p align="center">
   <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=flat-square&logo=firefox&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter"/></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-</p>
+  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a们的
 
 ---
 
 ## 🛠️ My Tech Universe
 
-I’m equipped with a versatile arsenal of tools and technologies to create cutting-edge web solutions. Dive into my skillset below:
+I’m armed with a diverse set of tools and technologies to build cutting-edge web and mobile solutions. Explore my skillset below:
 
 ### 💻 **Programming Languages**
 <div align="center">
@@ -63,6 +60,16 @@ I’m equipped with a versatile arsenal of tools and technologies to create cutt
   <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
 </div>
 
+### 📱 **Mobile App Development**
+<div align="center">
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native"/>
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo"/>
+  <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" alt="Ionic"/>
+  <img src="https://img.shields.io/badge/Lynx-000000?style=for-the-badge&logo=lynx&logoColor=white" alt="Lynx"/>
+  <img src="https://img.shields.io/badge/NativeWind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="NativeWind"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+</div>
+
 ### 🗄️ **Databases**
 <div align="center">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
@@ -94,11 +101,12 @@ I’m equipped with a versatile arsenal of tools and technologies to create cutt
 
 ## 🌟 What I Bring to the Table
 
-- 🎨 **Frontend Mastery**: Crafting responsive, interactive UIs with React, Vue.js, SvelteKit, and Shadcn UI.
-- ⚡ **Backend Excellence**: Building fast, scalable APIs with Node.js, Hono, Elysia.js, and Deno.
-- 🗄️ **Database Expertise**: Managing data with MongoDB, Supabase, and PostgreSQL for optimal performance.
+- 🎨 **Frontend Excellence**: Crafting responsive, user-friendly web interfaces with React, Vue.js, SvelteKit, and Shadcn UI.
+- 📱 **Mobile App Mastery**: Building cross-platform mobile apps with React Native, Expo, Ionic, and NativeWind.
+- ⚡ **Backend Expertise**: Creating fast, scalable APIs with Node.js, Hono, Elysia.js, and Deno.
+- 🗄️ **Database Proficiency**: Managing data with MongoDB, Supabase, and PostgreSQL for optimal performance.
 - ☁️ **Cloud & Deployment**: Deploying apps on Vercel, Netlify, AWS, and Heroku with seamless CI/CD.
-- 🚀 **Full-Stack Innovation**: Delivering end-to-end solutions with stunning designs and robust functionality.
+- 🚀 **Full-Stack Innovation**: Delivering end-to-end web and mobile solutions with stunning designs and robust functionality.
 
 ---
 
@@ -113,15 +121,15 @@ I’m equipped with a versatile arsenal of tools and technologies to create cutt
 
 ## 🏆 Featured Projects
 
-- **[Project Name 1](https://github.com/your-username/project1)**: A full-stack app with SvelteKit, Hono, and Supabase. [Live Demo](https://your-demo-link.com)
+- **[Project Name 1](https://github.com/your-username/project1)**: A mobile app built with React Native, Expo, and Supabase. [Live Demo](https://your-demo-link.com)
 - **[Project Name 2](https://github.com/your-username/project2)**: A Nuxt.js portfolio with Shadcn UI and Firebase. [Live Demo](https://your-demo-link.com)
-- **[Project Name 3](https://github.com/your-username/project3)**: A real-time app using Vue.js, Elysia.js, and WebSocket. [Live Demo](https://your-demo-link.com)
+- **[Project Name 3](https://github.com/your-username/project3)**: A real-time web app using SvelteKit, Elysia.js, and WebSocket. [Live Demo](https://your-demo-link.com)
 
 ---
 
 ## 📬 Let’s Collaborate!
 
-I’m always open to exciting projects and collaborations! Connect with me via:
+I’m always excited to work on innovative web and mobile projects! Connect with me via:
 
 <p align="center">
   <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -141,6 +149,6 @@ I’m always open to exciting projects and collaborations! Connect with me via:
 ---
 
 <div align="center">
-  <p>💻 <i>Code is my canvas, and innovation is my masterpiece.</i></p>
-  <p>🚀 <b>Let’s shape the future, one commit at a time!</b></p>
+  <p>💻 <i>Code is my art, and innovation is my masterpiece.</i></p>
+  <p>🚀 <b>Let’s build the future, one app at a time!</b></p>
 </div>
